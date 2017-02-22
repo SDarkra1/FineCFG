@@ -24,11 +24,11 @@
 
 	bind	"c"					"NewSentry"
 	bind	"v"					"dispenser"
-	bind	"MOUSE4"			"TeleEntrance"
-	bind	"MOUSE5"			"TeleExit"
+	bind	"mouse4"			"TeleEntrance"
+	bind	"mouse5"			"TeleExit"
 	
 	bind	"b"					"+teleport"				//Bind for the Eureka Effect Script.
-	bind	"ALT"				"+toggleTeleport"		//Toggle Bind for the Eureka Effect Script
+	bind	"alt"				"+toggleTeleport"		//Toggle Bind for the Eureka Effect Script
 
 ////////////////
 ////Settings////
