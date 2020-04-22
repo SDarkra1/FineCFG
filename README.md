@@ -13,6 +13,10 @@ With many different features and support.
 
 -My own custom engineer scripts that use the weapon switch script as a base.
 
+-Minigun Toggle Script for the Heavy.
+
+-Medic auto-healing script.
+
 -My own custom spectator script for viewing STV or POV demos, useful for doing demo reviews.
 
 -A binds reset script, so you can set custom binds across all your classes without them interfering with eachother.
