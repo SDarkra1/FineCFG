@@ -20,3 +20,5 @@ With many different features and support.
 -My own custom spectator script for viewing STV or POV demos, useful for doing demo reviews.
 
 -A binds reset script, so you can set custom binds across all your classes without them interfering with eachother.
+
+-Custom weapon scripts, with my preferred crosshairs.
