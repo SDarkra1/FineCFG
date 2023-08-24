@@ -22,3 +22,7 @@ With many different features and support.
 -A binds reset script, so you can set custom binds across all your classes without them interfering with eachother.
 
 -Custom weapon scripts, with my preferred crosshairs.
+
+-Maps for training/warmup
+
+-VScripts for use in videos, messing around, and testing.
