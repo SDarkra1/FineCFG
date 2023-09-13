@@ -1,7 +1,7 @@
-# Mothership-CFG
+# FineCFG
 My Personal Scripts and Configs
 
-<h2>Mothership's CFG files!</h2>
+<h2>SDarkrai's CFG files!</h2>
 
 With many different features and support.
 
